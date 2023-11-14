@@ -31,6 +31,7 @@ Jenkins is employed for CI/CD pipelines, automating the software delivery proces
 ### 1. Pilot Light DR Strategy
 
 The Car Rental System implements a Pilot Light DR strategy, maintaining a minimal version of the primary production environment in AWS. Key components include:
+![DR-strategy](https://github.com/rageshtamizharasu/Car-Rental-Platform-Project/assets/39893176/57896c55-dd9f-4484-bc76-154184ca4c4f)
 
 - **Amazon RDS:**
   - Multi-AZ deployment for high availability and automatic failover.
