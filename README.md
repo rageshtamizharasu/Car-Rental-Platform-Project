@@ -90,8 +90,3 @@ Comprehensive monitoring and logging practices are implemented using tools like 
 - Docker and Kubernetes installed.
 - Access to Jenkins for CI/CD setup.
 
-### Setup Steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/car-rental-system.git
