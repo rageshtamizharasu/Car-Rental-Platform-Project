@@ -90,3 +90,26 @@ Comprehensive monitoring and logging practices are implemented using tools like 
 - Docker and Kubernetes installed.
 - Access to Jenkins for CI/CD setup.
 
+### Usage
+## Customer Workflow:
+
+Register for an account or log in.
+Browse available cars and make reservations.
+View and manage bookings on the user dashboard.
+Administrator Workflow:
+
+Log in as an administrator.
+Manage car inventory, bookings, and customer accounts.
+Generate reports and analytics.
+
+## Conclusion
+The Car Rental System embodies a comprehensive and modern approach to web application development. It leverages microservices, containerization, and orchestration to provide a scalable, reliable, and efficient car rental experience. The implementation of Disaster Recovery strategies ensures business continuity, while the CI/CD pipelines and DevOps practices streamline the development lifecycle.
+
+## Contact
+For questions or support, contact Ragesh at rageshtamizharasu@outlook.com
+
+This markdown content can be used as the README file for your Git repository. Please replace placeholders such as Ragesh and Team Members with your actual details. Additionally, consider adding images or diagrams to enhance the visual appeal of the README.
+
+
+
+
